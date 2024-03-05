@@ -1,2 +1,4 @@
 node_modules
 package-log.json
+cert.pem
+key.pem
